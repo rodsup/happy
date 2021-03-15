@@ -7,4 +7,4 @@ Web-based application based on Next Level Week 3 by RocketSeat, built with:
 
 ## Link
 
-* Access the page [here](https://rodsup.github.io/happy).
+* Access the page [here](https://rodzera.github.io/happy).
